@@ -1,0 +1,14 @@
+{
+  "name": "AutoReact",
+  "description": "특정 유저가 말할 때마다 즉시 이모지 반응을 답니다.",
+  "authors": [
+    {
+      "name": "hjhlbhul",
+      "id": "0"
+    }
+  ],
+  "main": "index.js",
+  "vendetta": {
+    "icon": "ic_add_reaction_24px"
+  }
+}
